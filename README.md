@@ -7,6 +7,7 @@ MySql
 Descripción:
 
 Antes de realizar inciar, deberá clonar este repositorio, 
+una vez clonado, debe abrir la carpeta en un ide como visual studio code,
 adicionalmente, revisar la conexión a la base de datos, 
 en este caso, se realizó con una base de datos de mysql,
 deberá estar conectado a una base de datos llamada inventario
